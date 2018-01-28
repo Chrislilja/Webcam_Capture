@@ -1,0 +1,15 @@
+c:\users\thomas\documents\visual studio 2015\Projects\Webcam_capture\Webcam_capture\bin\Debug\Webcam_capture.exe.config
+c:\users\thomas\documents\visual studio 2015\Projects\Webcam_capture\Webcam_capture\bin\Debug\Webcam_capture.exe
+c:\users\thomas\documents\visual studio 2015\Projects\Webcam_capture\Webcam_capture\bin\Debug\Webcam_capture.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\Webcam_capture\Webcam_capture\bin\Debug\AForge.Video.dll
+c:\users\thomas\documents\visual studio 2015\Projects\Webcam_capture\Webcam_capture\bin\Debug\AForge.dll
+c:\users\thomas\documents\visual studio 2015\Projects\Webcam_capture\Webcam_capture\bin\Debug\AForge.Video.xml
+c:\users\thomas\documents\visual studio 2015\Projects\Webcam_capture\Webcam_capture\bin\Debug\AForge.xml
+c:\users\thomas\documents\visual studio 2015\Projects\Webcam_capture\Webcam_capture\obj\Debug\Webcam_capture.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2015\Projects\Webcam_capture\Webcam_capture\obj\Debug\Webcam_capture.Form1.resources
+c:\users\thomas\documents\visual studio 2015\Projects\Webcam_capture\Webcam_capture\obj\Debug\Webcam_capture.Properties.Resources.resources
+c:\users\thomas\documents\visual studio 2015\Projects\Webcam_capture\Webcam_capture\obj\Debug\Webcam_capture.csproj.GenerateResource.Cache
+c:\users\thomas\documents\visual studio 2015\Projects\Webcam_capture\Webcam_capture\obj\Debug\Webcam_capture.exe
+c:\users\thomas\documents\visual studio 2015\Projects\Webcam_capture\Webcam_capture\obj\Debug\Webcam_capture.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\Webcam_capture\Webcam_capture\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\thomas\documents\visual studio 2015\Projects\Webcam_capture\Webcam_capture\bin\Debug\AForge.Video.DirectShow.xml
